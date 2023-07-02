@@ -1,0 +1,11 @@
+Water
+Trees
+Asphalt
+Self-Blocking Bricks
+Bitumen
+Tiles
+Shadows
+Meadows
+Bare Soil
+Gravel
+Painted metal sheets
